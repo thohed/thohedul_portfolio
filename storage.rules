@@ -1,0 +1,29 @@
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+    
+    // Helper function to check if user is authenticated admin
+    function isAdmin() {
+      return request.auth != null && 
+        (request.auth.token.email == 'emonislam79799@gmail.com' || request.auth.token.admin == true);
+    }
+
+    // Public avatars and project photos: max 8MB, image types only
+    match /uploads/{fileName} {
+      allow read: if true;
+      allow write: if isAdmin() &&
+                      request.resource.size < 8 * 1024 * 1024 &&
+                      request.resource.contentType.matches('image/.*');
+      allow delete: if isAdmin();
+    }
+
+    // Resume PDFs: max 15MB, PDF application type only
+    match /documents/{fileName} {
+      allow read: if true;
+      allow write: if isAdmin() &&
+                      request.resource.size < 15 * 1024 * 1024 &&
+                      request.resource.contentType == 'application/pdf';
+      allow delete: if isAdmin();
+    }
+  }
+}

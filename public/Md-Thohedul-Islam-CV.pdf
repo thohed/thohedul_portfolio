@@ -1,0 +1,793 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 6934
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 24 Tf
+27.5999999999999979 TL
+0.067 0.094 0.153 rg
+51.0236220472441033 790.8663779527558972 Td
+(Md. Thohedul Islam) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.294 0.333 0.388 rg
+374.3013779527557858 790.8663779527558972 Td
+(Dhaka, Bangladesh · Remote Worldwide) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.114 0.306 0.847 rg
+51.0236220472441033 769.6065354330708033 Td
+(Senior Full-Stack Engineer & Systems Architect) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.216 0.255 0.318 rg
+51.0236220472441033 754.0159842519684616 Td
+(emonislam79799@gmail.com   |   [REPLACE: +880 1XXXXXXXXX]   |   emonislam.dev   |   github.com/[REPLACE: emonislam]   |  ) Tj
+T* (linkedin.com/in/[REPLACE: thohedul-islam]) Tj
+ET
+0.07 0.09 0.15 RG
+2.1259842519685042 w
+51.0236220472441033 725.6695275590550409 m
+544.2563779527558836 725.6695275590550409 l
+S
+BT
+/F2 12.5 Tf
+14.3749999999999982 TL
+0.067 0.094 0.153 rg
+51.0236220472441033 705.8270078740157487 Td
+(PROFESSIONAL SUMMARY) Tj
+ET
+0.82 0.84 0.86 RG
+1.1338582677165356 w
+51.0236220472441033 700.1577165354329964 m
+544.2563779527558836 700.1577165354329964 l
+S
+BT
+/F1 10 Tf
+11.5 TL
+0.122 0.161 0.216 rg
+51.0236220472441033 685.9844881889763428 Td
+(Results-driven Senior Full-Stack Engineer and Systems Architect with 5+ years of production experience) Tj
+T* (building high-throughput distributed systems, real-time web applications, and resilient cloud infrastructure.) Tj
+T* (Specialized in Go, Node.js, React 19, TypeScript, and Kubernetes, with a focus on sub-millisecond API latency,) Tj
+T* (fault-tolerant microservices, and pragmatic generative AI integrations supporting over 1.4M daily requests at) Tj
+T* (99.98% SLA availability.) Tj
+ET
+BT
+/F2 12.5 Tf
+14.3749999999999982 TL
+0.067 0.094 0.153 rg
+51.0236220472441033 606.614409448818833 Td
+(CORE TECHNICAL SKILLS) Tj
+ET
+0.82 0.84 0.86 RG
+1.1338582677165356 w
+51.0236220472441033 600.9451181102361943 m
+544.2563779527558836 600.9451181102361943 l
+S
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.067 0.094 0.153 rg
+51.0236220472441033 586.7718897637794271 Td
+(Frontend Architecture: ) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.216 0.255 0.318 rg
+156.1886220472441096 586.7718897637794271 Td
+(React 19, TypeScript, Next.js, Vite, Tailwind CSS, State Management \(Zustand, TanStack\),) Tj
+T* (Web Performance & Core Web Vitals, HTML5 Canvas, WebAssembly) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.067 0.094 0.153 rg
+51.0236220472441033 559.559291338582625 Td
+(Backend & Distributed Systems: ) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.216 0.255 0.318 rg
+199.6986220472441005 559.559291338582625 Td
+(Go \(Golang\), Node.js, Express, PostgreSQL, Redis & Pub/Sub, gRPC, REST) Tj
+T* (APIs, GraphQL, WebSockets, Event-Driven Architectures) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.067 0.094 0.153 rg
+51.0236220472441033 532.346692913385823 Td
+(Cloud, DevOps & Observability: ) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.216 0.255 0.318 rg
+196.8486220472441062 532.346692913385823 Td
+(Docker & Containerization, Kubernetes & Helm, Google Cloud Platform \(GCP\),) Tj
+T* (AWS, CI/CD \(GitHub Actions\), Linux Administration, Prometheus, Distributed) Tj
+T* (Tracing) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.067 0.094 0.153 rg
+51.0236220472441033 493.2285826771653205 Td
+(AI Systems & Tooling: ) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.216 0.255 0.318 rg
+152.4836220472440687 493.2285826771653205 Td
+(Gemini API & LLM Tool Calling, Vector Embeddings & RAG Pipelines, Structured Outputs,) Tj
+T* (Streaming Telemetry, Python \(FastAPI, NumPy\)) Tj
+ET
+BT
+/F2 12.5 Tf
+14.3749999999999982 TL
+0.067 0.094 0.153 rg
+51.0236220472441033 454.6774015748031275 Td
+(WORK EXPERIENCE) Tj
+ET
+0.82 0.84 0.86 RG
+1.1338582677165356 w
+51.0236220472441033 449.0081102362204319 m
+544.2563779527558836 449.0081102362204319 l
+S
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.067 0.094 0.153 rg
+51.0236220472441033 434.8348818897637216 Td
+(Lead Full-Stack Engineer) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.294 0.333 0.388 rg
+473.9563779527558154 434.8348818897637216 Td
+(2023 — Present) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.114 0.306 0.847 rg
+51.0236220472441033 422.0789763779526993 Td
+(AeroSphere Systems) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.42 0.447 0.502 rg
+437.6663779527559086 422.0789763779526993 Td
+(Remote · Singapore / Dhaka) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.122 0.161 0.216 rg
+56.6929133858267775 409.323070866141677 Td
+(•  Architected an event-driven Go and WebSocket telemetry aggregation engine) Tj
+T* (processing 12,000 active aircraft events per second with sub-4ms P99 latency.) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.122 0.161 0.216 rg
+56.6929133858267775 382.6774015748030706 Td
+(•  Led a squad of 6 engineers migrating legacy monolithic control portals to) Tj
+T* (modular React 19 micro-frontends, reducing initial page load times by 48%.) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.122 0.161 0.216 rg
+56.6929133858267775 356.0317322834644642 Td
+(•  Implemented automated multi-cluster Kubernetes canary deployment pipelines) Tj
+T* (across GCP and AWS, establishing zero-downtime rollouts and automated) Tj
+T* (rollbacks.) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.122 0.161 0.216 rg
+56.6929133858267775 317.480551181102328 Td
+(•  Engineered an edge caching tier and Redis cluster topology that reduced) Tj
+T* (database load by 64% during peak operational surges.) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.067 0.094 0.153 rg
+51.0236220472441033 283.748267716535338 Td
+(Senior Software Engineer) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.294 0.333 0.388 rg
+487.6363779527558222 283.748267716535338 Td
+(2021 — 2023) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.114 0.306 0.847 rg
+51.0236220472441033 270.9923622047243725 Td
+(Veloce Digital Labs) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.42 0.447 0.502 rg
+462.996377952755779 270.9923622047243725 Td
+(Remote · London, UK) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.122 0.161 0.216 rg
+56.6929133858267775 258.2364566929132934 Td
+(•  Built an edge-cached headless commerce platform processing over $8.5M in seasonal transaction volume with) Tj
+T* (zero service outages.) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.122 0.161 0.216 rg
+56.6929133858267775 231.5907874015747439 Td
+(•  Designed real-time asynchronous fraud detection queue using Redis Streams and Go workers, preventing $140K) Tj
+T* (in unauthorized charges.) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.122 0.161 0.216 rg
+56.6929133858267775 204.9451181102360806 Td
+(•  Established end-to-end automated testing and strict WCAG 2.2 AA accessibility standards across) Tj
+T* (customer-facing checkout flows.) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.122 0.161 0.216 rg
+56.6929133858267775 178.2994488188975311 Td
+(•  Mentored 4 junior engineers in concurrent Go patterns, clean TypeScript interfaces, and optimistic UI) Tj
+T* (synchronization.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 6533
+>>
+stream
+1.1338582677165356 w
+0.82 0.84 0.86 RG
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.067 0.094 0.153 rg
+51.0236220472441033 790.8663779527558972 Td
+(Full-Stack Developer) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.294 0.333 0.388 rg
+487.6363779527558222 790.8663779527558972 Td
+(2019 — 2021) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.114 0.306 0.847 rg
+51.0236220472441033 778.1104724409448181 Td
+(Nexus Spark Studio) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.42 0.447 0.502 rg
+470.64637795275587 778.1104724409448181 Td
+(Dhaka, Bangladesh) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.122 0.161 0.216 rg
+56.6929133858267775 765.3545669291338527 Td
+(•  Delivered 14 enterprise web applications from conception to production on schedule, achieving an average client) Tj
+T* (CSAT rating of 9.7/10.) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.122 0.161 0.216 rg
+56.6929133858267775 738.7088976377953031 Td
+(•  Refactored legacy database schemas and indexes, reducing complex analytical query execution time from 8.2s) Tj
+T* (to under 640ms.) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.122 0.161 0.216 rg
+56.6929133858267775 712.0632283464566399 Td
+(•  Built reusable component libraries and RESTful services adopted across 8 international client products.) Tj
+ET
+BT
+/F2 12.5 Tf
+14.3749999999999982 TL
+0.067 0.094 0.153 rg
+51.0236220472441033 684.5671653543306547 Td
+(SELECTED PROJECTS) Tj
+ET
+0.82 0.84 0.86 RG
+1.1338582677165356 w
+51.0236220472441033 678.8978740157480161 m
+544.2563779527558836 678.8978740157480161 l
+S
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.067 0.094 0.153 rg
+51.0236220472441033 664.7246456692912489 Td
+(Nebula Cloud Orchestrator) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.114 0.306 0.847 rg
+425.3663779527557836 664.7246456692912489 Td
+(3.8ms P99 Latency · 45k rps) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.294 0.333 0.388 rg
+51.0236220472441033 652.8191338582676053 Td
+(Role: Lead Architect  |  Tech: Go, TypeScript, Kubernetes, gRPC, React 19, Prometheus) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.122 0.161 0.216 rg
+56.6929133858267775 639.212834645669318 Td
+(•  Constructed multi-region Kubernetes control plane streaming live node) Tj
+T* (degradation metrics over bidirectional WebSocket connections.) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.122 0.161 0.216 rg
+56.6929133858267775 612.5671653543306547 Td
+(•  Developed automated pod reallocation heuristics that eliminated cluster) Tj
+T* (cold-starts during unexpected ingress spikes.) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.067 0.094 0.153 rg
+51.0236220472441033 578.8348818897636647 Td
+(Synapse AI Workflow Canvas) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.114 0.306 0.847 rg
+432.566377952755829 578.8348818897636647 Td
+(-72% Pipeline Debug Time) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.294 0.333 0.388 rg
+51.0236220472441033 566.9293700787400212 Td
+(Role: Creator & Lead Developer  |  Tech: TypeScript, React 19, Tailwind CSS, Vite, FastAPI, WebAssembly) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.122 0.161 0.216 rg
+56.6929133858267775 553.3230708661417339 Td
+(•  Designed virtualized infinite node canvas supporting 500+ simultaneous multi-agent LLM pipeline blocks with) Tj
+T* (streaming token inspection.) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.122 0.161 0.216 rg
+56.6929133858267775 526.6774015748030706 Td
+(•  Implemented deterministic evaluation scoring and fallback routing with human-in-the-loop review nodes.) Tj
+ET
+BT
+/F2 12.5 Tf
+14.3749999999999982 TL
+0.067 0.094 0.153 rg
+51.0236220472441033 499.1813385826770855 Td
+(EDUCATION) Tj
+ET
+0.82 0.84 0.86 RG
+1.1338582677165356 w
+51.0236220472441033 493.5120472440943331 m
+544.2563779527558836 493.5120472440943331 l
+S
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.067 0.094 0.153 rg
+51.0236220472441033 479.3388188976376796 Td
+(Bangladesh University of Engineering and Technology \(BUET\)) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.294 0.333 0.388 rg
+487.6363779527558222 479.3388188976376796 Td
+(2016 — 2020) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.122 0.161 0.216 rg
+51.0236220472441033 466.5829133858266005 Td
+(Bachelor of Science in Computer Science and Engineering) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.42 0.447 0.502 rg
+470.64637795275587 466.5829133858266005 Td
+(Dhaka, Bangladesh) Tj
+ET
+BT
+/F3 8.5 Tf
+9.7749999999999986 TL
+0.294 0.333 0.388 rg
+51.0236220472441033 455.2443307086612663 Td
+(Honors: Dean's Honor List · Magna Cum Laude · Algorithms & Systems Focus) Tj
+ET
+BT
+/F2 12.5 Tf
+14.3749999999999982 TL
+0.067 0.094 0.153 rg
+51.0236220472441033 436.8191338582675485 Td
+(CERTIFICATIONS) Tj
+ET
+0.82 0.84 0.86 RG
+1.1338582677165356 w
+51.0236220472441033 431.149842519684853 m
+544.2563779527558836 431.149842519684853 l
+S
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.067 0.094 0.153 rg
+51.0236220472441033 416.9766141732281994 Td
+(Google Cloud Certified Professional Cloud Architect) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.294 0.333 0.388 rg
+524.4563779527558154 416.9766141732281994 Td
+(2024) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.294 0.333 0.388 rg
+51.0236220472441033 405.6380314960628084 Td
+(Google Cloud  ·  Credential ID: GCP-PCA-98214) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.067 0.094 0.153 rg
+51.0236220472441033 392.8821259842517861 Td
+(AWS Certified Solutions Architect – Associate) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.294 0.333 0.388 rg
+524.4563779527558154 392.8821259842517861 Td
+(2023) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.294 0.333 0.388 rg
+51.0236220472441033 381.5435433070864519 Td
+(Amazon Web Services  ·  Credential ID: AWS-SAA-44910) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.067 0.094 0.153 rg
+51.0236220472441033 368.7876377952754297 Td
+(Certified Kubernetes Administrator \(CKA\)) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.294 0.333 0.388 rg
+524.4563779527558154 368.7876377952754297 Td
+(2023) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.294 0.333 0.388 rg
+51.0236220472441033 357.4490551181100955 Td
+(Cloud Native Computing Foundation \(CNCF\)  ·  Credential ID: CKA-88301) Tj
+ET
+BT
+/F2 12.5 Tf
+14.3749999999999982 TL
+0.067 0.094 0.153 rg
+51.0236220472441033 339.0238582677163777 Td
+(LANGUAGES) Tj
+ET
+0.82 0.84 0.86 RG
+1.1338582677165356 w
+51.0236220472441033 333.3545669291336822 m
+544.2563779527558836 333.3545669291336822 l
+S
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.122 0.161 0.216 rg
+51.0236220472441033 319.1813385826769718 Td
+(English \(Professional Working / Fluent\)   •   Bengali \(Native / Bilingual\)   •   [REPLACE: Language] \([REPLACE:) Tj
+T* (Elementary / Conversational]\)) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+21 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20261026065349-00'00')
+>>
+endobj
+22 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000013860 00000 n 
+0000015685 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000007138 00000 n 
+0000007275 00000 n 
+0000013923 00000 n 
+0000014048 00000 n 
+0000014178 00000 n 
+0000014311 00000 n 
+0000014449 00000 n 
+0000014573 00000 n 
+0000014702 00000 n 
+0000014834 00000 n 
+0000014970 00000 n 
+0000015098 00000 n 
+0000015225 00000 n 
+0000015354 00000 n 
+0000015487 00000 n 
+0000015589 00000 n 
+0000015935 00000 n 
+0000016021 00000 n 
+trailer
+<<
+/Size 23
+/Root 22 0 R
+/Info 21 0 R
+/ID [ <24C31B45CA56894AD2F0542B6951300E> <24C31B45CA56894AD2F0542B6951300E> ]
+>>
+startxref
+16125
+%%EOF

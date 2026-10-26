@@ -1,0 +1,186 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    --font-display: 'Outfit', system-ui, -apple-system, sans-serif;
+    --font-mono: 'JetBrains Mono', monospace;
+
+    /* Default Obsidian fallback */
+    --canvas-bg: #0a0a0a;
+    --surface-bg: #141414;
+    --card-bg: rgba(23, 23, 23, 0.7);
+    --border-color: rgba(38, 38, 38, 0.85);
+    --text-main: #ffffff;
+    --text-sub: #d4d4d4;
+    --text-dim: #a3a3a3;
+    --accent-color: #ffffff;
+    --accent-contrast: #0a0a0a;
+    --meter-track: #262626;
+    --meter-thumb: #e5e5e5;
+  }
+
+  [data-theme="obsidian"] {
+    --canvas-bg: #0a0a0a;
+    --surface-bg: #141414;
+    --card-bg: rgba(23, 23, 23, 0.7);
+    --border-color: rgba(38, 38, 38, 0.85);
+    --text-main: #ffffff;
+    --text-sub: #d4d4d4;
+    --text-dim: #a3a3a3;
+    --accent-color: #ffffff;
+    --accent-contrast: #0a0a0a;
+    --meter-track: #262626;
+    --meter-thumb: #e5e5e5;
+  }
+
+  [data-theme="slate"] {
+    --canvas-bg: #020617;
+    --surface-bg: #0b1329;
+    --card-bg: rgba(15, 23, 42, 0.75);
+    --border-color: rgba(30, 41, 59, 0.9);
+    --text-main: #f8fafc;
+    --text-sub: #cbd5e1;
+    --text-dim: #94a3b8;
+    --accent-color: #38bdf8;
+    --accent-contrast: #020617;
+    --meter-track: #1e293b;
+    --meter-thumb: #38bdf8;
+  }
+
+  [data-theme="paper"] {
+    --canvas-bg: #09090b;
+    --surface-bg: #141417;
+    --card-bg: rgba(24, 24, 27, 0.7);
+    --border-color: rgba(39, 39, 42, 0.85);
+    --text-main: #fafafa;
+    --text-sub: #d4d4d8;
+    --text-dim: #a1a1aa;
+    --accent-color: #f4f4f5;
+    --accent-contrast: #09090b;
+    --meter-track: #27272a;
+    --meter-thumb: #e4e4e7;
+  }
+
+  [data-theme="clean"] {
+    --canvas-bg: #0c0a09;
+    --surface-bg: #171514;
+    --card-bg: rgba(28, 25, 23, 0.7);
+    --border-color: rgba(41, 37, 36, 0.85);
+    --text-main: #fafaf9;
+    --text-sub: #d6d3d1;
+    --text-dim: #a8a29e;
+    --accent-color: #f5f5f4;
+    --accent-contrast: #0c0a09;
+    --meter-track: #292524;
+    --meter-thumb: #e7e5e4;
+  }
+
+  [data-theme="travertine"] {
+    --canvas-bg: #faf8f5;
+    --surface-bg: #f5efe6;
+    --card-bg: #ffffff;
+    --border-color: #e7e5e4;
+    --text-main: #1c1917;
+    --text-sub: #44403c;
+    --text-dim: #78716c;
+    --accent-color: #1c1917;
+    --accent-contrast: #faf8f5;
+    --meter-track: #e7e5e4;
+    --meter-thumb: #292524;
+  }
+
+  [data-theme="emerald"] {
+    --canvas-bg: #021e17;
+    --surface-bg: #042920;
+    --card-bg: rgba(6, 45, 35, 0.75);
+    --border-color: rgba(13, 74, 59, 0.9);
+    --text-main: #ecfdf5;
+    --text-sub: #a7f3d0;
+    --text-dim: #6ee7b7;
+    --accent-color: #34d399;
+    --accent-contrast: #021e17;
+    --meter-track: #064e3b;
+    --meter-thumb: #34d399;
+  }
+
+  body {
+    font-family: var(--font-sans);
+  }
+
+  h1, h2, h3, .font-display {
+    font-family: var(--font-display);
+  }
+
+  .font-mono, code, kbd {
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+/* Custom subtle scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(160, 160, 160, 0.2);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(160, 160, 160, 0.4);
+}
+
+@page {
+  size: A4;
+  margin: 18mm;
+}
+
+@media print {
+  html, body {
+    background: #ffffff !important;
+    color: #111827 !important;
+    font-size: 10pt;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .no-print {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  /* Expand CV document to full printable A4 page on white background */
+  .cv-page-container {
+    background: #ffffff !important;
+    color: #111827 !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+  .cv-page-container * {
+    color: #111827 !important;
+    border-color: #d1d5db !important;
+  }
+  .cv-page-container h1 {
+    font-size: 24pt !important;
+    color: #111827 !important;
+  }
+  .cv-page-container h2 {
+    font-size: 12.5pt !important;
+    color: #111827 !important;
+  }
+  .cv-section {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+  .cv-item {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+}
